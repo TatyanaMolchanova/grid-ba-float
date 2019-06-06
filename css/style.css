@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font: 10px/1.6 "Open Sans", serif;
+	height: 100%;
+}
+
+body {
+	font-size: 1.6rem;
+	color: #000;
+	min-height: 100%;
+}
+
+main {
+	background-color: #afd5ef;
+}
+
+.container {
+	max-width: 1800px;
+	width: 90%;
+	margin: 0 auto;
+}
